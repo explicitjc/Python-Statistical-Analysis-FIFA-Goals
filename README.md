@@ -1,3 +1,6 @@
+## Description
+This project is an analysis of FIFA World Cup match results using Python, comparing the number of goals scored in men's and women's international soccer matches.
+
 # FIFA World Cup Goal Analysis: Men vs Women
 
 ## Description
