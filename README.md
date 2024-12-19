@@ -1,7 +1,8 @@
+# Python-Statistical-Analysis
 # FIFA World Cup Goal Analysis: Men vs Women
 
 ## Description
-This project analyzes FIFA World Cup match results, comparing the number of goals scored in men's and women's international soccer matches. The goal is to test the hypothesis that the mean number of goals in women's matches is greater than in men's. The analysis uses official FIFA World Cup data from both men's and women's competitions since 2002.
+This project analyzes FIFA World Cup match results using Python Statiscal Analysis, comparing the number of goals scored in men's and women's international soccer matches. The goal is to test the hypothesis that the mean number of goals in women's matches is greater than in men's. The analysis uses official FIFA World Cup data from both men's and women's competitions since 2002.
 
 - **Null Hypothesis (H0):** The mean number of goals scored in women's international soccer matches is the same as in men's.
 - **Alternative Hypothesis (Ha):** The mean number of goals scored in women's international soccer matches is greater than in men's.
